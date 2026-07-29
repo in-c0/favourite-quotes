@@ -123,6 +123,28 @@ The three at once.
 
 > Interactive, heuristic approach to learning
 
+> Keep only things that speak to your heart. Ask yourself: Does this spark joy? Then take the plunge and discard all the rest. Never discard anything without saying thank you and good-bye.
+>
+> — *Marie Kondo (KonMari)*
+
+> When we really delve into the reasons for why we can't let something go, there are only two: an attachment to the past or a fear for the future.
+>
+> — *Marie Kondo (KonMari)*
+
+> It is not memories but the person we have become because of those past experiences that we should treasure.
+>
+> — *Marie Kondo (KonMari)*
+
+> You don't have to make yourself like someone else's things. It's enough just to be able to accept them. While they do not belong to you, things that belong to the rest of the family are part of the home in which you live.
+>
+> — *Marie Kondo (KonMari)*
+
+> Some things spark joy because they are rare.
+>
+> — *hers*
+
+> Does your desk remind you of who you want to be?
+
 ---
 
 <sub>Lines I keep coming back to. Also surfaced at [ava.kim](https://ava.kim).</sub>
