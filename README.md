@@ -1,5 +1,15 @@
 # my favourite quotes
 
+
+```
+Populations evolve. Individauls develop.
+Ideas evolve. Companies develop.
+```
+```
+Mutations should be incremental; the changes have to be small. The smaller the change is - the more it converges on the 50% of chance it being beneficial. 
+You don't want to be too much ahead of your time.
+```
+
 ```
 It is possible that yet another unique quality of man is a capacity for genuine, desinterested, true altruism.
 I hope so, but I am not going to argue the case one way or another, nor to speculate over its possible memic evolution.
