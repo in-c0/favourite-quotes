@@ -6,7 +6,8 @@ Populations evolve. Individauls develop.
 Ideas evolve. Companies develop.
 ```
 ```
-Mutations should be incremental; the changes have to be small. The smaller the change is - the more it converges on the 50% of chance it being beneficial. 
+Mutations should be incremental; the changes have to be small.
+The smaller the change is - the more it converges on the 50% of chance it being beneficial. 
 You don't want to be too much ahead of your time.
 ```
 
