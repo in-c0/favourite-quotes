@@ -1,7 +1,17 @@
 # my favourite quotes
 
 ```
-It is possible that yet another unique quality of man is a capacity for genuine, desinterested, true altruism.  I hope so, but I am not going to argue the case one way or another, nor to speculate over its possible memic evolution.  The point I am making now is that, **even if we look on the dark side and assume that individual man is fundamentally selfish, our conscious foresight -- our capacity to simulate the future in imagination -- could save us from the worst selfish excesses of the blind replicators.**  We have at least the mental equipment to foster our long-term selfish interests rather than merely our short-term selfish interests.  We can see the long-term benefits of participating in a `conspiracy of doves', and we can sit down together to discuss ways of making the conspiracy work.  We have the power to defy the selfish genes of our birth and, if necessary, the selfish memes of our indoctrination.  We can even discuss ways of deliberately cultivating and nurturing pure, disinterested altruism -- something that has no place in nature, something that has never existed before in the whole history of the world.  **We are built as gene machines and cultured as meme machines, but we have the power to turn against our own creators.  We, alone on earth, can rebel against the tyranny of the selfish replicators.**
+It is possible that yet another unique quality of man is a capacity for genuine, desinterested, true altruism.
+I hope so, but I am not going to argue the case one way or another, nor to speculate over its possible memic evolution.
+The point I am making now is that, **even if we look on the dark side and assume that individual man is fundamentally selfish,
+our conscious foresight -- our capacity to simulate the future in imagination -- could save us from the worst selfish excesses of the blind replicators.**
+ We have at least the mental equipment to foster our long-term selfish interests rather than merely our short-term selfish interests.
+We can see the long-term benefits of participating in a `conspiracy of doves', and we can sit down together to discuss ways of making the conspiracy work.
+We have the power to defy the selfish genes of our birth and, if necessary, the selfish memes of our indoctrination.
+We can even discuss ways of deliberately cultivating and nurturing pure, disinterested altruism --
+something that has no place in nature, something that has never existed before in the whole history of the world.
+**We are built as gene machines and cultured as meme machines, but we have the power to turn against our own creators.**
+**We, alone on earth, can rebel against the tyranny of the selfish replicators.**
 - Richard Dawkins, Selfish Genes
 ```
 
