@@ -1,5 +1,13 @@
 # my favourite quotes
 
+```
+> Is it possible to be truly unbiased?
+
+"...I would start by appealing to the philosophy behind Bayesian inference. 
+From that framework, a state of ignorance is an unbiased one. Someone coming to a new problem should use the uniform (unbiased) prior to represent their ignorance.
+Since Bayes Law describes how a rational agent updates belief based on new knowledge, one can conclude that the only way for a rational agent to remain unbiased is to not know anything about the issue - you cannot remain unbiased.  Your bias may shift toward believing something to be unknowable, but even that is a bias toward the question. So it seems a rational person cannot formulate unbiased positions.
+"
+```
 
 ```
 Populations evolve. Individauls develop.
