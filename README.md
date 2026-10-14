@@ -18,17 +18,14 @@ Since Bayes Law describes how a rational agent updates belief based on new knowl
 ```
 
 ```
-Populations evolve. Individauls develop.
-Ideas evolve. Companies develop.
-```
-```
-Mutations should be incremental; the changes have to be small.
-The smaller the change is - the more it converges on the 50% of chance it being beneficial. 
-You don't want to be too much ahead of your time.
-```
+"Populations evolve. Individauls develop.
+Ideas evolve. Companies develop."
 
-```
-It is possible that yet another unique quality of man is a capacity for genuine, desinterested, true altruism.
+"Mutations should be incremental; the changes have to be small.
+The smaller the change is - the more it converges on the 50% of chance it being beneficial. 
+You don't want to be too much ahead of your time."
+
+"It is possible that yet another unique quality of man is a capacity for genuine, desinterested, true altruism.
 I hope so, but I am not going to argue the case one way or another, nor to speculate over its possible memic evolution.
 The point I am making now is that, **even if we look on the dark side and assume that individual man is fundamentally selfish,
 our conscious foresight -- our capacity to simulate the future in imagination -- could save us from the worst selfish excesses of the blind replicators.**
@@ -38,8 +35,9 @@ We have the power to defy the selfish genes of our birth and, if necessary, the 
 We can even discuss ways of deliberately cultivating and nurturing pure, disinterested altruism --
 something that has no place in nature, something that has never existed before in the whole history of the world.
 **We are built as gene machines and cultured as meme machines, but we have the power to turn against our own creators.**
-**We, alone on earth, can rebel against the tyranny of the selfish replicators.**
-- Richard Dawkins, Selfish Genes
+**We, alone on earth, can rebel against the tyranny of the selfish replicators.**"
+
+- Richard Dawkins
 ```
 
 
