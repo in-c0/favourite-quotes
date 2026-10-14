@@ -1,6 +1,14 @@
 # my favourite quotes
 
 ```
+"Modern education system was designed to produce complacent factory workers Schools thus became in some respects like factories, but not necessarily because they were mimicking factories, or preparing children to work in factories. Rather, both the workplace and the schools, as well as other nineteenth-century institutions, were partaking of the same ethos of efficiency, manipulation, and mastery."
+- Carl Kaestle, 1983
+
+"... and if it may be made one of the great prerogatives of education to perform the unnatural and unholy work of making slaves, then surely it must be one of the noblest instrumentalities for rearing a nation of freemen. If a moral power over the understandings and affections of the people may be turned to evil, may it not also be employed for good?"
+— Horace Mann, 1867 
+```
+
+```
 > Is it possible to be truly unbiased?
 
 "...I would start by appealing to the philosophy behind Bayesian inference. 
