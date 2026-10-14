@@ -225,8 +225,9 @@ Does your desk remind you of who you want to be?
 ```
 
 ```
-If it's not fun, you are not doing it right
+If you're not having fun, you're doing it wrong
 ```
+<img width="1152" height="1536" alt="image" src="https://github.com/user-attachments/assets/d857c158-3de8-4d46-b868-b41e46348e15" />
+<img width="1536" height="1152" alt="image" src="https://github.com/user-attachments/assets/ab4aa989-9151-4cea-a2bd-755c32953455" />
+<img width="1536" height="1152" alt="image" src="https://github.com/user-attachments/assets/cc9e241d-50a3-46ec-a91a-2f780a9a5ecb" />
 
-
-<sub>Lines I keep coming back to. Also surfaced at [ava.kim](https://ava.kim).</sub>
